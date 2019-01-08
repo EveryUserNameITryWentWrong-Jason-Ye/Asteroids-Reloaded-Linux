@@ -54,5 +54,6 @@
 
 1/7/2018 - Beta v2.1
 -Minor Update
+-You can now resize the application to fit to your screen! (Be careful about too much resizing though)
 -High Scores are now only obtainable through destroying Asteroids
 -Power-Ups now also earn High Scores
