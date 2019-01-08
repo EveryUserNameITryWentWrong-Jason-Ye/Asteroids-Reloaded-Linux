@@ -1,5 +1,5 @@
 12/23/2018 - Pre-Alpha v1.00: 
--Birth of Asteroids Relaoded!
+-Birth of Asteroids Reloaded!
 
 12/24/2018 - Alpha v1.01: 
 -Minor update
@@ -41,7 +41,18 @@
 -Added Iceroids! Watch out, they fling Ice Shards at random directions! (Spawns one every two stages)
 -Bug fixes(Power-Up bars over flowing)
 
-12/30.2018 - Alpha v1.10
+12/30/2018 - Alpha v1.10
 -Minor Update
--Added Health Packs! Spawns at the end of every stage for a little early surivival boost!
+-Added Health Packs! Spawns at the end of every stage for a little early survival boost!
 -Minor bug fixes and Stats tweaks
+
+1/6/2018 - Beta v2.0
+-Major Update! Finally in Beta!
+-Added full sound!
+-Fixed small bugs
+-Tweaked Stats
+
+1/7/2018 - Beta v2.1
+-Minor Update
+-High Scores are now only obtainable through destroying Asteroids
+-Power-Ups now also earn High Scores
