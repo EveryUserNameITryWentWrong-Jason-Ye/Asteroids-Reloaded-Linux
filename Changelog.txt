@@ -1,0 +1,47 @@
+12/23/2018 - Pre-Alpha v1.00: 
+-Birth of Asteroids Relaoded!
+
+12/24/2018 - Alpha v1.01: 
+-Minor update
+-Added Energy Shield
+-Refined Laser
+-Minor smoothing and bug fixes
+
+12/25/2018 - Alpha v1.05: 
+-Major update!
+-Added Loading Screen and Help Menu
+-Minor Stats tweaks
+-Bossteroids now have a Health Count & a Boss Count indicating which one they are. 
+
+12/26/2018 - Alpha v1.06
+-Major update!
+-Added Ship Yard! Now you can upgrade all aspects of your ship (Limited to Main Cannon for this Version)
+-Added Mega Bossteroid! 
+-Added Restart button! (Spawns whenever the Stage Number is divisible by 10 and if there are no other Mega Bossteroids in the Field)
+-Tweaked difficulties and stats
+-Bossteroids now spawn whenever the Stage Number is divisible by 4 and if there are no other Bossteroids in the Field
+-Fixed Bug in which High Score keeps counting while in Help Menu
+
+12/27/2018 - Alpha v1.07
+-Minor Update
+-Fixed lots of glitches and bugs!
+-Added Danger Zones and Hit Indicators (Aka. Real HitBoxes...) for all the Asteroids
+-Nerfed Bossteroids & Mega Bossteroids' damages
+
+12/28/2018 - Alpha v1.08
+-Semi Major Update
+-Ship Yard is now fully developed!
+-Fixed some Bugs
+-Minior Stats tweaks
+-Bossteroids now only spawn once every 4 Stages, Mega Bossteroids every 10 Stages.
+-Improved Ship Health System
+
+12/29/2018 - Alpha v1.09
+-Semi Major Update
+-Added Iceroids! Watch out, they fling Ice Shards at random directions! (Spawns one every two stages)
+-Bug fixes(Power-Up bars over flowing)
+
+12/30.2018 - Alpha v1.10
+-Minor Update
+-Added Health Packs! Spawns at the end of every stage for a little early surivival boost!
+-Minor bug fixes and Stats tweaks
